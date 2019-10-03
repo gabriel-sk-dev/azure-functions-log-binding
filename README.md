@@ -1,0 +1,1 @@
+# azure-functions-log-binding
